@@ -28,12 +28,9 @@
 
 Diseño y pongo en operación sistemas que una empresa usa todos los días: aplicaciones web, software móvil de campo, automatización de datos y modelos aplicados a la producción. Desde 2022 dirijo la tecnología de **Tessa Corp**, con gobierno de TI, nube y desarrollo interno alineados al resultado del negocio.
 
-```mermaid
-flowchart TB
-  operacion[Problema de operacion] --> arquitectura[Estrategia y arquitectura]
-  arquitectura --> construccion[Web, movil, datos e IA]
-  construccion --> resultado[Continuidad, ahorro y decision]
-```
+<p align="center">
+  <img src="docs/diagrama-enfoque.png" alt="Del problema de operación al resultado de negocio: operación, arquitectura, construcción con web, móvil, datos e inteligencia artificial, y la decisión." width="100%">
+</p>
 
 ## Resultados que sostengo
 
