@@ -29,7 +29,7 @@
 Diseño y pongo en operación sistemas que una empresa usa todos los días: aplicaciones web, software móvil de campo, automatización de datos y modelos aplicados a la producción. Desde 2022 dirijo la tecnología de **Tessa Corp**, con gobierno de TI, nube y desarrollo interno alineados al resultado del negocio.
 
 ```mermaid
-flowchart LR
+flowchart TB
   negocio[Problema de operacion] --> direccion[Estrategia y arquitectura]
   direccion --> web[Software web]
   direccion --> movil[Software movil]
