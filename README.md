@@ -30,15 +30,9 @@ Diseño y pongo en operación sistemas que una empresa usa todos los días: apli
 
 ```mermaid
 flowchart TB
-  negocio[Problema de operacion] --> direccion[Estrategia y arquitectura]
-  direccion --> web[Software web]
-  direccion --> movil[Software movil]
-  direccion --> datos[Datos y automatizacion]
-  direccion --> ia[IA aplicada]
-  web --> valor[Continuidad, ahorro y decision]
-  movil --> valor
-  datos --> valor
-  ia --> valor
+  operacion[Problema de operacion] --> arquitectura[Estrategia y arquitectura]
+  arquitectura --> construccion[Web, movil, datos e IA]
+  construccion --> resultado[Continuidad, ahorro y decision]
 ```
 
 ## Resultados que sostengo
